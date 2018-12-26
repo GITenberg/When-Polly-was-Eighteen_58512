@@ -1,5 +1,8 @@
 _repo: When-Polly-was-Eighteen_58512
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58512-h/images/cover.jpg
 creator:
   author:
     agent_name: Dowd, Emma C.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3909'
     url: http://www.gutenberg.org/2009/agents/3909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58512#When-Polly-was-Eighteen
 gutenberg_issued: '2018-12-22'
 gutenberg_type: Text
 identifiers:
